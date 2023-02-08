@@ -1,0 +1,27 @@
+.card{
+	margin: 10px;
+	/* width: 320px;
+	height: 500px; */
+}
+
+.card > img{
+	position: relative;
+	object-fit: cover;
+	margin: auto;
+	margin-top: 5px;
+	/* width: 320px;
+	height: 350px; */
+}
+
+.card-body{
+	position: relative;
+	padding: 0;
+	margin: 10px;
+	text-align: center;
+	color: white;
+}
+
+.card-btn{
+	position: relative;
+	margin-bottom: 10px;
+}
